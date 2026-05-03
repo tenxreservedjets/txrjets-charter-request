@@ -100,3 +100,21 @@ This release focuses on **stability improvements, UI modernization, and enhanced
 - ℹ️ About TXRJets app page
 - 📥 File downloads (PDF "Charter Reports" etc.)
 - 📡 Offline support handling
+
+---
+
+## 📌 Roadmap (Future Improvements)
+- Dark mode optimization
+- Improved splash screen animation
+- Advanced loading indicators (skeleton UI)
+- Enhanced offline page design
+- Toolbar animation on scroll
+
+## ✈️ About
+
+Developed for TXR Reserved Jets
+A premium aviation charter experience platform.
+
+# 📜 License
+
+© 2026 TXR Reserved Jets. All rights reserved.
